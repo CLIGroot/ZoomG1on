@@ -36,7 +36,7 @@
     <img src=https://img.shields.io/badge/Plataform-Linux_x86__64-blue></img>
     <br><br>
     <a href="https://github.com/Groot-cmd">
-      <img src=https://img.shields.io/github/followers/Groot-cmd?style=social></img>
+      <img src=https://img.shields.io/github/followers/CLIGroot?style=social></img>
     </a>
   </p>
 </div>
